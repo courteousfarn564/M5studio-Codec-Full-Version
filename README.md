@@ -241,4 +241,4 @@ This repository serves as the official landing page for m5Studio Codec. The soft
 **Get the most recent version of m5Studio Codec today!**
 
 ---
-**Last updated:** 2026-09-25 18:27:42 UTC
+**Last updated:** 2026-09-25 22:11:23 UTC
